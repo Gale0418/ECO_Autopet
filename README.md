@@ -22,15 +22,7 @@ ECO Autopet 是你的最佳解決方案！本程式透過 Win32 API 直接對遊
 
 ## 🛠️ 安裝與執行 (Installation)
 
-### 1. 環境需求 請確保已安裝 Python 3.10 或以上版本。
-
-### 2. 安裝依賴庫 在終端機 (Terminal) 執行以下指令安裝所需套件：
-
-    pip install PySide6 pywin32 psutil
-
-### 3. 啟動程式
-
-    python ECO_Autopet.py
+右邊release有exe檔，這個再不會真的沒辦法了...
 
 ## 🎮 使用說明 (Usage Guide)
 
