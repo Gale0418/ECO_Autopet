@@ -2,7 +2,7 @@
 
 > 「拒絕寵物罷工，實現 24 小時全自動化血汗工廠！」 > 一個專為《ECO之夢》設計的 Python 輔助工具，讓你的寵物在你睡覺時也能勤奮加班。
 
-![Python](https://www.google.com/search?q=https://img.shields.io/badge/Python-3.10%252B-blue) ![PySide6](https://www.google.com/search?q=https://img.shields.io/badge/GUI-PySide6-green) ![Platform](https://www.google.com/search?q=https://img.shields.io/badge/Platform-Windows-lightgrey)
+![pet Example](https://pbs.twimg.com/media/HDJoonHaMAADhVK.jpg)
 
 ## 📖 專案簡介 (Introduction)
 
